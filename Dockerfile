@@ -1,4 +1,4 @@
-ARG GO_VERSION=1.19.0
+ARG GO_VERSION=1.21.6
 
 ###########################
 # Build executable binary #
