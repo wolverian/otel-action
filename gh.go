@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/google/go-github/v47/github"
+	"github.com/google/go-github/v58/github"
 	"go.opentelemetry.io/otel/trace"
 	"golang.org/x/oauth2"
 )
